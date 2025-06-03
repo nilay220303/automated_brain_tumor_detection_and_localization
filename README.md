@@ -1,1 +1,1 @@
-# automated_brain_tumor_detection_and_localization
+# Automated Brain Tumor Detection and Localization
